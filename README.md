@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @rohitjainfsl
 - 👀 I’m interested in Responsive Web Design, React, & building scalable backend systems with Node.
+- I'm currently learning Ember JS
 - 📫 Email me at rohit@fullstacklearning.com
 
 <!---
