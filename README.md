@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @rohitjainfsl
+- 👋 Hi, I’m Rohit Jain
 - 👀 I’m interested in Responsive Web Design, React, & building scalable backend systems with Node.
-- I'm currently learning Ember JS
+- I'm currently learning Docker & Kubernetes.
+- Planning to get my hands on React Native as well.
 - 📫 Email me at rohit@fullstacklearning.com
 
 <!---
