@@ -3,8 +3,8 @@
 - I'm currently learning Docker & Kubernetes.
 - Planning to get my hands on React Native as well.
 - I train interested minds on full stack development at my place <a href="https://linkedin.com/company/fullstacklearning">Full Stack Learning</a>
-- I also train young minds online in collaboration with UpGrad and Newton School  
-- 📫 Email me at rohit@fullstacklearning.com
+- I also train young minds online in collaboration with <a href="https://www.knowledgehut.com/">UpGrad Knowledgehut</a> and <a href="https://www.newtonschool.co/">Newton School</a>  
+- 📫 Email me at <a href="mailto:rohit@fullstacklearning.com">rohit@fullstacklearning.com</a>
 
 <!---
 rohitjainfsl/rohitjainfsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
