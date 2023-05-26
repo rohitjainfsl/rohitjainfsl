@@ -5,7 +5,7 @@
 - I train interested minds on full stack development at my place <a href="https://linkedin.com/company/fullstacklearning">Full Stack Learning</a>
 - I also train young minds online in collaboration with <a href="https://www.knowledgehut.com/">UpGrad Knowledgehut</a> and <a href="https://www.newtonschool.co/">Newton School</a>  
 - 📫 Email me at <a href="mailto:rohit@fullstacklearning.com">rohit@fullstacklearning.com</a>
-- <h3>Connect with me</h3>: <a href="https://linkedin.com/in/entrep-rohit/" target="_blank">![linkedin logo]</a>
+- <h3>Connect with me</h3>: <a href="https://linkedin.com/in/entrep-rohit/" target="_blank">Rohit Jain on Linkedin</a>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=rohitjainfsl&theme=dark)](https://git.io/streak-stats)
