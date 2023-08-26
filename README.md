@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Rohit Jain  - ![](https://komarev.com/ghpvc/?username=rohitjainfsl)
 - 👀 I’m interested in Responsive Web Design, React, & building scalable backend systems with Node.
-- I'm currently learning Docker & Kubernetes.
+- I'm currently polishing my skills in Next JS.
 - Planning to get my hands on React Native as well.
 - I train interested minds on full stack development at my place <a href="https://linkedin.com/company/fullstacklearning">Full Stack Learning</a>
-- I also train young minds online in collaboration with <a href="https://www.knowledgehut.com/">UpGrad Knowledgehut</a> and <a href="https://www.newtonschool.co/">Newton School</a>  
+- I also train young minds online in collaboration with <a href="https://www.knowledgehut.com/">UpGrad Knowledgehut</a>.  
 - 📫 Email me at <a href="mailto:rohit@fullstacklearning.com">rohit@fullstacklearning.com</a>
 - <h3>Connect with me</h3>: <a href="https://linkedin.com/in/entrep-rohit/" target="_blank">Rohit Jain on Linkedin</a>
 
