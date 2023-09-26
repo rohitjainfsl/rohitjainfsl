@@ -8,7 +8,7 @@
 - <h3>Connect with me</h3>: <a href="https://linkedin.com/in/entrep-rohit/" target="_blank">Rohit Jain on Linkedin</a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rohitjainfsl&theme=dark)](https://git.io/streak-stats)
+[![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitjainfsl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 rohitjainfsl/rohitjainfsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
