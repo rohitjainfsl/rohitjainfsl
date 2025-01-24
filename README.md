@@ -6,6 +6,7 @@
 - Have also taught at <a href="https://www.knowledgehut.com/" target="_blank">UpGrad Knowledgehut</a>, <a href="https://www.newtonschool.co/" target="_blank">Newton School</a> and <a href="https://www.geekster.in/" target="_blank">Geekster</a>.  
 - 📫 Email me at <a href="mailto:rohit@fullstacklearning.com">rohit@fullstacklearning.com</a>
 - <h3>Connect with me</h3>: <a href="https://linkedin.com/in/entrep-rohit/" target="_blank">Rohit Jain on Linkedin</a>
+- <h3><a href="https://youtube.com/@fullstacklearning" target="_blank">Learn Full Stack Development</a></h3>
 
 
 [![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitjainfsl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
